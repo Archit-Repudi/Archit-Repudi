@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Archit-Repudi
 - 👀 I’m interested in Web Designing and Coding
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning AI orchestration
 - 📫 How to reach me: @archit_anand (ig)/ repudiarchit@gmail.com
 
 <!---
